@@ -15,7 +15,7 @@ BOT_TEXT = "℘ཞıŋƈɛ℘ıą"
 OWNER_ID = int(os.environ.get("OWNER_ID", "1785828439"))
 # ------------------------------------------------
 # //LOG CHANNEL ID 
-CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1004349032135"))
+CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003969632838"))
 
 # //FORCE_CHANNEL_ID
 CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1004349032135")) 
